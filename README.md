@@ -28,12 +28,3 @@
   <a href="https://www.linkedin.com/in/cristiano-junior-b64668186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:cristianojunior120@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-##
-
-- 🔭 Hoje trabalho tanto com front-end quanto back-end!
-- 🌱 Estudando Vue.js e Laravel
-- 👯 Procurando sempre se aperfeiçoar e adotar as melhores práticas do mercado.
-- 📫 Contate-me no email - cristianojunior120@gmail.com
-
-##
