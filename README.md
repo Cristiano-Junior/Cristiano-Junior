@@ -24,6 +24,12 @@
 
 ##
 
+Certificados:
+
+<a href="https://cursos.alura.com.br/certificate/24d1fedc-0b60-4fbf-86d0-b5ba324598d3" target="_blank">Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces</a>
+
+##
+
 <div>
   <a href="https://www.linkedin.com/in/cristiano-junior-b64668186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:cristianojunior120@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
