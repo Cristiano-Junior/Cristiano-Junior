@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Cris! 👋
 
-##### Desenvolvedor PHP Web Full Stack, Técnico em Informática e Tecnólogo Superior em Análise e Desenvolvimento de Sistemas na UNICSUL
+##### Desenvolvedor PHP Web Full Stack
 
 ##
 
